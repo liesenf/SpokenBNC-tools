@@ -1,4 +1,4 @@
-# Tools for preprocessing the SpokenBNC dataset
+# Tools for preprocessing SpokenBNC dataset
 
 Here are Python scripts for processing SpokenBNC data. The SpokenBNC 2014 is a collection of 1251 transcribed conversations.
 More information: http://corpora.lancs.ac.uk/bnc2014/
